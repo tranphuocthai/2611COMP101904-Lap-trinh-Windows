@@ -27,7 +27,7 @@
 ![Lỗi giới tính](images/Nhapthieu.png)
 
 ### 3. Kiểm tra dữ liệu: Nhập sai
-![Lỗi năm sinh](images/Nhấpi.png)
+![Lỗi năm sinh](images/Nhapsai.png)
 
 ### 4. Hộp thoại xác nhận khi thoát
 ![Thoát](images/thoat.png)

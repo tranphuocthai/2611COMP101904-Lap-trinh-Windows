@@ -20,14 +20,14 @@
 ### 1. Giao diện chương trình
 ![Kết quả](images/Giaodienchuongtrinh.png)
 
-### 1. Hiển thị thông tin thành công
+### 2. Hiển thị thông tin thành công
 ![Kết quả](images/Hienthithongtin.png)
 
-### 2. Kiểm tra dữ liệu: Nhập thiếu thông tin
+### 3. Kiểm tra dữ liệu: Nhập thiếu thông tin
 ![Lỗi giới tính](images/Nhapthieu.png)
 
-### 3. Kiểm tra dữ liệu: Nhập sai
+### 4. Kiểm tra dữ liệu: Nhập sai
 ![Lỗi năm sinh](images/Nhapsai.png)
 
-### 4. Hộp thoại xác nhận khi thoát
+### 5. Hộp thoại xác nhận khi thoát
 ![Thoát](images/thoat.png)

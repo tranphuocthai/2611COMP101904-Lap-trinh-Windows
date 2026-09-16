@@ -1,4 +1,4 @@
-# Lab 01 - Ứng dụng WinFormsnhập thông tin cá nhân
+# Lab 01 - Ứng dụng WinForms nhập thông tin cá nhân
 
 ## Thông tin sinh viên
 * **Họ tên:** Trần Phước Thái

@@ -32,5 +32,5 @@
 ### 5. Tính số phần tử chẵn lẻ & Sắp xếp theo thứ tự tăng dần
 ![Thoát](images/45.png)
 
-### 5. Tìm vị trí của phần tử
+### 6. Tìm vị trí của phần tử
 ![Thoát](images/6.png)

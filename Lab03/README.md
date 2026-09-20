@@ -34,7 +34,7 @@ Chương trình Console Application phục vụ quản lý sinh viên theo mô h
 ![Xuất danh sách](images/2.png)
 
 ### 5. Tìm kiếm thông tin của sinh viên 
-![Tìm](images/Tiemkiem.png)
+![Tìm](images/Timkiem.png)
 
 ### 6. Sửa điểm và xuất danh sách sinh viên đạt 
 ![58](images/58.png)

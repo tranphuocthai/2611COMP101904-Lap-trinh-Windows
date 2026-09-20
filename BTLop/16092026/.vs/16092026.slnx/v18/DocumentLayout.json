@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\16092026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|solutionrelative:16092026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\16092026\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|solutionrelative:16092026\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\16092026\\nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|solutionrelative:16092026\\nhanvienvanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\16092026\\nhanvienkinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|solutionrelative:16092026\\nhanvienkinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\16092026\\nhanvienthoivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C544E-05EA-0856-408C-2F11B8731864}|16092026\\16092026.csproj|solutionrelative:16092026\\nhanvienthoivu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVienThoiVu.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVienThoiVu.cs",
+              "RelativeDocumentMoniker": "16092026\\NhanVienThoiVu.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVienThoiVu.cs",
+              "RelativeToolTip": "16092026\\NhanVienThoiVu.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:36:12.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienKinhDoanh.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVienKinhDoanh.cs",
+              "RelativeDocumentMoniker": "16092026\\NhanVienKinhDoanh.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVienKinhDoanh.cs",
+              "RelativeToolTip": "16092026\\NhanVienKinhDoanh.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:35:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienVanPhong.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVienVanPhong.cs",
+              "RelativeDocumentMoniker": "16092026\\NhanVienVanPhong.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVienVanPhong.cs",
+              "RelativeToolTip": "16092026\\NhanVienVanPhong.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:35:03.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVien.cs",
+              "RelativeDocumentMoniker": "16092026\\NhanVien.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\NhanVien.cs",
+              "RelativeToolTip": "16092026\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:34:02.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\Program.cs",
+              "RelativeDocumentMoniker": "16092026\\Program.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\BTLop\\16092026\\16092026\\Program.cs",
+              "RelativeToolTip": "16092026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:25:39.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

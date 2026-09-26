@@ -33,7 +33,7 @@ Chương trình Console quản lý sản phẩm. Dữ liệu được lưu trong
 ![Xuất danh sách](images/2.png)
 
 ### 5. Tìm kiếm thông tin của sản phẩm 
-![Tìm](images/Timkiem.png)
+![Tìm](images/TimKiem.png)
 
 ### 6. Xóa sản phẩm
 ![Xóa](images/6.png)

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\test05\\test05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|solutionrelative:test05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582BA07-9650-4494-A702-EA8D7B074851}|Test05\\Test05.csproj|D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\test05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582BA07-9650-4494-A702-EA8D7B074851}|Test05\\Test05.csproj|solutionrelative:test05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\test05\\test05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|solutionrelative:test05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\test05\\test05\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|solutionrelative:test05\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\test05\\test05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A573C38A-751F-E25A-8A52-64CF8C0D7F33}|Test05\\Test05.csproj|solutionrelative:test05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.cs",
+              "RelativeDocumentMoniker": "Test05\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.cs [Design]",
+              "RelativeToolTip": "Test05\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:24:41.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Program.cs",
+              "RelativeDocumentMoniker": "Test05\\Program.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Program.cs",
+              "RelativeToolTip": "Test05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:50:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Test05\\Form1.Designer.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.Designer.cs",
+              "RelativeToolTip": "Test05\\Form1.Designer.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAuwMUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:50:08.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.cs",
+              "RelativeDocumentMoniker": "Test05\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.cs",
+              "RelativeToolTip": "Test05\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:50:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.cs",
+              "RelativeDocumentMoniker": "Test05\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Test05\\Test05\\Form1.cs [Design]",
+              "RelativeToolTip": "Test05\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T03:49:17.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

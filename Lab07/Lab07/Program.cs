@@ -3,48 +3,19 @@ using System.Windows.Forms;
 
 namespace Lab07
 {
-    public partial class FrmLogin : Form
+    internal static class Program
     {
-        public User LoggedInUser { get; private set; }
-
-        public FrmLogin()
+        [STAThread]
+        static void Main()
         {
-            InitializeComponent();
-            txtPassword.PasswordChar = '*';
-        }
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
 
-        private void btnLogin_Click(object sender, EventArgs e)
-        {
-            string user = txtUsername.Text.Trim();
-            string pass = txtPassword.Text.Trim();
-
-            if (string.IsNullOrEmpty(user) || string.IsNullOrEmpty(pass))
+            FrmLogin loginForm = new FrmLogin();
+            if (loginForm.ShowDialog() == DialogResult.OK)
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ Username và Password!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
+                Application.Run(new FrmMain(loginForm.LoggedInUser));
             }
-
-            if (user == "admin" && pass == "123")
-            {
-                LoggedInUser = new User { Username = "admin", Password = "123", FullName = "Quản trị viên", Role = "Admin" };
-                this.DialogResult = DialogResult.OK;
-                this.Close();
-            }
-            else if (user == "user" && pass == "123")
-            {
-                LoggedInUser = new User { Username = "user", Password = "123", FullName = "Nhân viên bán hàng", Role = "User" };
-                this.DialogResult = DialogResult.OK;
-                this.Close();
-            }
-            else
-            {
-                MessageBox.Show("Sai tài khoản hoặc mật khẩu!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
     }
 }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab07\\lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab07\\lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab07\\lab07\\form\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\form\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab07\\lab07\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\lab07\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -55,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\form\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab07\\lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab07\\lab07\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3CA991C-C854-1AD0-F14A-D39EC8FD6E49}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,19 +86,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "Lab07\\Form\\FrmLogin.cs",
-              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmLogin.cs [Design]",
-              "RelativeToolTip": "Lab07\\Form\\FrmLogin.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Program.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07\\Program.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Program.cs [Design]",
+              "RelativeToolTip": "Lab07\\Program.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T15:13:53.784Z",
+              "WhenOpened": "2026-10-11T15:15:53.018Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FrmAbout.Designer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmAbout.Designer.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmAbout.Designer.cs",
@@ -102,12 +106,11 @@
               "RelativeToolTip": "Lab07\\Form\\FrmAbout.Designer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T15:13:01.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T15:13:01.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "FrmAbout.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmAbout.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmAbout.cs",
@@ -115,12 +118,11 @@
               "RelativeToolTip": "Lab07\\Form\\FrmAbout.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T15:12:44.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T15:12:44.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "FrmCustomer.Designer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmCustomer.Designer.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmCustomer.Designer.cs",
@@ -128,12 +130,11 @@
               "RelativeToolTip": "Lab07\\Form\\FrmCustomer.Designer.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T15:12:24.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T15:12:24.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FrmCustomer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmCustomer.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmCustomer.cs",
@@ -141,12 +142,11 @@
               "RelativeToolTip": "Lab07\\Form\\FrmCustomer.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T15:11:56.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T15:11:56.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmLogin.cs",
@@ -154,12 +154,35 @@
               "RelativeToolTip": "Lab07\\Form\\FrmLogin.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:28:52.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T13:28:52.754Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07\\Program.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Program.cs",
+              "RelativeToolTip": "Lab07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:28:29.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Lab07\\Form\\FrmLogin.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Lab07\\Form\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T15:13:53.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmLogin.Designer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmLogin.Designer.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmLogin.Designer.cs",
@@ -172,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Lab07.csproj",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Lab07.csproj",
               "RelativeDocumentMoniker": "Lab07\\Lab07.csproj",
@@ -180,12 +203,11 @@
               "RelativeToolTip": "Lab07\\Lab07.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-11T13:45:13.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T13:45:13.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "FrmProduct.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmProduct.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmProduct.cs",
@@ -197,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FrmMain.Designer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmMain.Designer.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmMain.Designer.cs",
@@ -205,12 +227,11 @@
               "RelativeToolTip": "Lab07\\Form\\FrmMain.Designer.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAowFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:34:52.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T13:34:52.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FrmProduct.Designer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmProduct.Designer.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmProduct.Designer.cs",
@@ -222,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FrmMain.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form\\FrmMain.cs",
               "RelativeDocumentMoniker": "Lab07\\Form\\FrmMain.cs",
@@ -234,19 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Program.cs",
-              "RelativeDocumentMoniker": "Lab07\\Program.cs",
-              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Program.cs",
-              "RelativeToolTip": "Lab07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:28:29.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Lab07\\Models\\Customer.cs",
@@ -258,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Lab07\\Models\\Product.cs",
@@ -270,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Models\\User.cs",
               "RelativeDocumentMoniker": "Lab07\\Models\\User.cs",
@@ -282,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab07\\Lab07\\Form1.cs",
               "RelativeDocumentMoniker": "Lab07\\Form1.cs",

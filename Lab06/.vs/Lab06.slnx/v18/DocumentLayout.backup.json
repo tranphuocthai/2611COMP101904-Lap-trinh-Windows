@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab06\\lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab06\\lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab06\\lab06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab06\\lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab06\\lab06\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985D76CB-E851-1FE0-B219-62195522318B}|Lab06\\Lab06.csproj|solutionrelative:lab06\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Program.cs",
+              "RelativeDocumentMoniker": "Lab06\\Program.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Program.cs",
+              "RelativeToolTip": "Lab06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:42:35.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab06\\Form1.Designer.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab06\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:42:20.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab06\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Form1.cs",
+              "RelativeToolTip": "Lab06\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:42:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Product.cs",
+              "RelativeDocumentMoniker": "Lab06\\Product.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Product.cs",
+              "RelativeToolTip": "Lab06\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:41:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab06\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab06\\Lab06\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab06\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:40:22.997Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

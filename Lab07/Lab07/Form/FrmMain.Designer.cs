@@ -7,68 +7,132 @@
 
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.menuSystem = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuLogout = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuExit = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuCatalog = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuProduct = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuCustomer = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuHelp = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuAbout = new System.Windows.Forms.ToolStripMenuItem();
-            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.lblStatusUser = new System.Windows.Forms.ToolStripStatusLabel();
-            this.lblStatusTime = new System.Windows.Forms.ToolStripStatusLabel();
-            this.timerTime = new System.Windows.Forms.Timer(this.components);
-            this.menuStrip1.SuspendLayout();
-            this.statusStrip1.SuspendLayout();
-            this.SuspendLayout();
-
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] { this.menuSystem, this.menuCatalog, this.menuHelp });
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-
-            this.menuSystem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { this.menuLogout, this.menuExit });
-            this.menuSystem.Text = "Hệ thống";
-            this.menuLogout.Text = "Đăng xuất";
-            this.menuLogout.Click += new System.EventHandler(this.menuLogout_Click);
-            this.menuExit.Text = "Thoát";
-            this.menuExit.Click += new System.EventHandler(this.menuExit_Click);
-
-            this.menuCatalog.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { this.menuProduct, this.menuCustomer });
-            this.menuCatalog.Text = "Danh mục";
-            this.menuProduct.Text = "Quản lý Sản phẩm";
-            this.menuProduct.Click += new System.EventHandler(this.menuProduct_Click);
-            this.menuCustomer.Text = "Quản lý Khách hàng";
-            this.menuCustomer.Click += new System.EventHandler(this.menuCustomer_Click);
-
-            this.menuHelp.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { this.menuAbout });
-            this.menuHelp.Text = "Trợ giúp";
-            this.menuAbout.Text = "Giới thiệu";
-            this.menuAbout.Click += new System.EventHandler(this.menuAbout_Click);
-
-            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] { this.lblStatusUser, this.lblStatusTime });
-            this.statusStrip1.Location = new System.Drawing.Point(0, 424);
-
-            this.lblStatusUser.Text = "User Info";
-            this.lblStatusTime.Text = "Time";
-
-            this.timerTime.Interval = 1000;
-            this.timerTime.Tick += new System.EventHandler(this.timerTime_Tick);
-
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.statusStrip1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "FrmMain";
-            this.Text = "Shop Manager Mini";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMain_FormClosing);
-            this.Load += new System.EventHandler(this.FrmMain_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.statusStrip1.ResumeLayout(false);
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            components = new System.ComponentModel.Container();
+            menuStrip1 = new MenuStrip();
+            menuSystem = new ToolStripMenuItem();
+            menuLogout = new ToolStripMenuItem();
+            menuExit = new ToolStripMenuItem();
+            menuCatalog = new ToolStripMenuItem();
+            menuProduct = new ToolStripMenuItem();
+            menuCustomer = new ToolStripMenuItem();
+            menuHelp = new ToolStripMenuItem();
+            menuAbout = new ToolStripMenuItem();
+            statusStrip1 = new StatusStrip();
+            lblStatusUser = new ToolStripStatusLabel();
+            lblStatusTime = new ToolStripStatusLabel();
+            timerTime = new System.Windows.Forms.Timer(components);
+            menuStrip1.SuspendLayout();
+            statusStrip1.SuspendLayout();
+            SuspendLayout();
+            // 
+            // menuStrip1
+            // 
+            menuStrip1.ImageScalingSize = new Size(20, 20);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { menuSystem, menuCatalog, menuHelp });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(800, 28);
+            menuStrip1.TabIndex = 1;
+            // 
+            // menuSystem
+            // 
+            menuSystem.DropDownItems.AddRange(new ToolStripItem[] { menuLogout, menuExit });
+            menuSystem.Name = "menuSystem";
+            menuSystem.Size = new Size(85, 24);
+            menuSystem.Text = "Hệ thống";
+            // 
+            // menuLogout
+            // 
+            menuLogout.Name = "menuLogout";
+            menuLogout.Size = new Size(160, 26);
+            menuLogout.Text = "Đăng xuất";
+            menuLogout.Click += menuLogout_Click;
+            // 
+            // menuExit
+            // 
+            menuExit.Name = "menuExit";
+            menuExit.Size = new Size(160, 26);
+            menuExit.Text = "Thoát";
+            menuExit.Click += menuExit_Click;
+            // 
+            // menuCatalog
+            // 
+            menuCatalog.DropDownItems.AddRange(new ToolStripItem[] { menuProduct, menuCustomer });
+            menuCatalog.Name = "menuCatalog";
+            menuCatalog.Size = new Size(90, 24);
+            menuCatalog.Text = "Danh mục";
+            // 
+            // menuProduct
+            // 
+            menuProduct.Name = "menuProduct";
+            menuProduct.Size = new Size(223, 26);
+            menuProduct.Text = "Quản lý Sản phẩm";
+            menuProduct.Click += menuProduct_Click;
+            // 
+            // menuCustomer
+            // 
+            menuCustomer.Name = "menuCustomer";
+            menuCustomer.Size = new Size(223, 26);
+            menuCustomer.Text = "Quản lý Khách hàng";
+            menuCustomer.Click += menuCustomer_Click;
+            // 
+            // menuHelp
+            // 
+            menuHelp.DropDownItems.AddRange(new ToolStripItem[] { menuAbout });
+            menuHelp.Name = "menuHelp";
+            menuHelp.Size = new Size(78, 24);
+            menuHelp.Text = "Trợ giúp";
+            // 
+            // menuAbout
+            // 
+            menuAbout.Name = "menuAbout";
+            menuAbout.Size = new Size(156, 26);
+            menuAbout.Text = "Giới thiệu";
+            menuAbout.Click += menuAbout_Click;
+            // 
+            // statusStrip1
+            // 
+            statusStrip1.ImageScalingSize = new Size(20, 20);
+            statusStrip1.Items.AddRange(new ToolStripItem[] { lblStatusUser, lblStatusTime });
+            statusStrip1.Location = new Point(0, 424);
+            statusStrip1.Name = "statusStrip1";
+            statusStrip1.Size = new Size(800, 26);
+            statusStrip1.TabIndex = 0;
+            // 
+            // lblStatusUser
+            // 
+            lblStatusUser.Name = "lblStatusUser";
+            lblStatusUser.Size = new Size(68, 20);
+            lblStatusUser.Text = "User Info";
+            // 
+            // lblStatusTime
+            // 
+            lblStatusTime.Name = "lblStatusTime";
+            lblStatusTime.Size = new Size(42, 20);
+            lblStatusTime.Text = "Time";
+            // 
+            // timerTime
+            // 
+            timerTime.Interval = 1000;
+            timerTime.Tick += timerTime_Tick;
+            // 
+            // FrmMain
+            // 
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(800, 450);
+            Controls.Add(statusStrip1);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
+            Name = "FrmMain";
+            Text = "Shop Manager Mini";
+            FormClosing += FrmMain_FormClosing;
+            Load += FrmMain_Load;
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            statusStrip1.ResumeLayout(false);
+            statusStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         private System.Windows.Forms.MenuStrip menuStrip1;

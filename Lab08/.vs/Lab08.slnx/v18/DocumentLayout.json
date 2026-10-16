@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\lab08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\drawsurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\drawsurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\drawmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\drawmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\drawitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\drawitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|d:\\2611comp101904-lap-trinh-windows\\2611comp101904-lap-trinh-windows\\lab08\\lab08\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4524D8-0AF7-AB58-024B-FBB1B7A55FD3}|Lab08\\Lab08.csproj|solutionrelative:lab08\\frmpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.resx",
+              "RelativeDocumentMoniker": "Lab08\\Form1.resx",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.resx",
+              "RelativeToolTip": "Lab08\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-16T13:25:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab08\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.cs",
+              "RelativeToolTip": "Lab08\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:25:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPaint.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\FrmPaint.cs",
+              "RelativeDocumentMoniker": "Lab08\\FrmPaint.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\FrmPaint.cs [Design]",
+              "RelativeToolTip": "Lab08\\FrmPaint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:25:17.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab08\\Form1.Designer.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab08\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:25:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrawMode.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\DrawMode.cs",
+              "RelativeDocumentMoniker": "Lab08\\DrawMode.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\DrawMode.cs",
+              "RelativeToolTip": "Lab08\\DrawMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:02:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrawItem.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\DrawItem.cs",
+              "RelativeDocumentMoniker": "Lab08\\DrawItem.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\DrawItem.cs",
+              "RelativeToolTip": "Lab08\\DrawItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:02:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawSurface.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\DrawSurface.cs",
+              "RelativeDocumentMoniker": "Lab08\\DrawSurface.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\DrawSurface.cs",
+              "RelativeToolTip": "Lab08\\DrawSurface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:01:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08\\Program.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Program.cs",
+              "RelativeToolTip": "Lab08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:01:10.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab08\\Form1.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab08\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T02:53:19.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPaint.cs",
+              "DocumentMoniker": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\FrmPaint.cs",
+              "RelativeDocumentMoniker": "Lab08\\FrmPaint.cs",
+              "ToolTip": "D:\\2611COMP101904-Lap-trinh-Windows\\2611COMP101904-Lap-trinh-Windows\\Lab08\\Lab08\\FrmPaint.cs",
+              "RelativeToolTip": "Lab08\\FrmPaint.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAowOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T04:01:36.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

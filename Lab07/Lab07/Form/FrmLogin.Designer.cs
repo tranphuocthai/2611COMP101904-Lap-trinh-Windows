@@ -7,51 +7,78 @@
 
         private void InitializeComponent()
         {
-            this.txtUsername = new System.Windows.Forms.TextBox();
-            this.txtPassword = new System.Windows.Forms.TextBox();
-            this.btnLogin = new System.Windows.Forms.Button();
-            this.btnExit = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.SuspendLayout();
-
-            this.txtUsername.Location = new System.Drawing.Point(120, 30);
-            this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(200, 22);
-
-            this.txtPassword.Location = new System.Drawing.Point(120, 70);
-            this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(200, 22);
-
-            this.btnLogin.Location = new System.Drawing.Point(120, 110);
-            this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(90, 35);
-            this.btnLogin.Text = "Đăng nhập";
-            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
-
-            this.btnExit.Location = new System.Drawing.Point(230, 110);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(90, 35);
-            this.btnExit.Text = "Thoát";
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
-
-            this.label1.Location = new System.Drawing.Point(30, 33);
-            this.label1.Text = "Tài khoản:";
-            this.label2.Location = new System.Drawing.Point(30, 73);
-            this.label2.Text = "Mật khẩu:";
-
-            this.ClientSize = new System.Drawing.Size(360, 180);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.btnLogin);
-            this.Controls.Add(this.txtPassword);
-            this.Controls.Add(this.txtUsername);
-            this.Name = "FrmLogin";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Đăng nhập hệ thống";
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            txtUsername = new TextBox();
+            txtPassword = new TextBox();
+            btnLogin = new Button();
+            btnExit = new Button();
+            label1 = new Label();
+            label2 = new Label();
+            SuspendLayout();
+            // 
+            // txtUsername
+            // 
+            txtUsername.Location = new Point(120, 30);
+            txtUsername.Name = "txtUsername";
+            txtUsername.Size = new Size(200, 27);
+            txtUsername.TabIndex = 5;
+            txtUsername.TextChanged += txtUsername_TextChanged;
+            // 
+            // txtPassword
+            // 
+            txtPassword.Location = new Point(120, 69);
+            txtPassword.Name = "txtPassword";
+            txtPassword.Size = new Size(200, 27);
+            txtPassword.TabIndex = 4;
+            txtPassword.TextChanged += txtPassword_TextChanged;
+            // 
+            // btnLogin
+            // 
+            btnLogin.Location = new Point(120, 110);
+            btnLogin.Name = "btnLogin";
+            btnLogin.Size = new Size(90, 35);
+            btnLogin.TabIndex = 3;
+            btnLogin.Text = "Đăng nhập";
+            btnLogin.Click += btnLogin_Click;
+            // 
+            // btnExit
+            // 
+            btnExit.Location = new Point(230, 110);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(90, 35);
+            btnExit.TabIndex = 2;
+            btnExit.Text = "Thoát";
+            btnExit.Click += btnExit_Click;
+            // 
+            // label1
+            // 
+            label1.Location = new Point(30, 33);
+            label1.Name = "label1";
+            label1.Size = new Size(84, 23);
+            label1.TabIndex = 1;
+            label1.Text = "Tài khoản:";
+            // 
+            // label2
+            // 
+            label2.Location = new Point(30, 73);
+            label2.Name = "label2";
+            label2.Size = new Size(84, 23);
+            label2.TabIndex = 0;
+            label2.Text = "Mật khẩu:";
+            // 
+            // FrmLogin
+            // 
+            ClientSize = new Size(360, 180);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(btnExit);
+            Controls.Add(btnLogin);
+            Controls.Add(txtPassword);
+            Controls.Add(txtUsername);
+            Name = "FrmLogin";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Đăng nhập hệ thống";
+            ResumeLayout(false);
+            PerformLayout();
         }
         private System.Windows.Forms.TextBox txtUsername;
         private System.Windows.Forms.TextBox txtPassword;

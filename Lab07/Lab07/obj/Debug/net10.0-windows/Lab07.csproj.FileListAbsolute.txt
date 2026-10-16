@@ -17,3 +17,7 @@ D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07
 D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\Lab07.genruntimeconfig.cache
 D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\ref\Lab07.dll
 D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\Lab07.csproj.Up2Date
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\Lab07.FrmLogin.resources
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\Lab07.FrmMain.resources
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\Lab07.FrmAbout.resources
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab07\Lab07\obj\Debug\net10.0-windows\Lab07.FrmCustomer.resources

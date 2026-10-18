@@ -1,0 +1,7 @@
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.Form1.resources
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.csproj.GenerateResource.cache
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.AssemblyInfoInputs.cache
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.AssemblyInfo.cs
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.csproj.CoreCompileInputs.cache
+D:\2611COMP101904-Lap-trinh-Windows\2611COMP101904-Lap-trinh-Windows\Lab11\Lab11\obj\Debug\net10.0-windows\Lab11.sourcelink.json

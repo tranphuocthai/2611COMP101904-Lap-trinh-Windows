@@ -7,8 +7,7 @@ namespace COMP1019_Buoi11_Lab11
 {
     public partial class FrmLop : Form
     {
-        // Cần thay thế Data Source bằng tên Server SQL của bạn
-        private readonly string connectionString = @"Data Source=.;Initial Catalog=EduManagerDB;Integrated Security=True;TrustServerCertificate=True";
+        private readonly string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=EduManagerDB;Integrated Security=True;TrustServerCertificate=True";
 
         public FrmLop()
         {
